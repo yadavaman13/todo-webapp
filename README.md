@@ -1,4 +1,4 @@
-# Minimalist To-Do Application
+# TODO Webapp
 
 A clean, responsive, and feature-rich To-Do application built with vanilla HTML, CSS, and JavaScript. This project demonstrates modern web development practices while maintaining a minimalist black and white design aesthetic.
 
